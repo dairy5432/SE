@@ -37,7 +37,7 @@ def main():
 
         # 按照格式拼接：
         # <去掉后缀>=<BASE_URL><原文件名>=N/A=100=N/A
-        result = f"{text_no_ext}"
+        result = f"{text_no_ext}={BASE_URL}{original_text}{END_PARAMS}"
 
         print(result)
 
