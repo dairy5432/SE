@@ -1,1 +1,0 @@
-python linkgen.py
