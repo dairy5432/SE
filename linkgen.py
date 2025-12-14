@@ -2,7 +2,7 @@ import sys
 import os
 
 # 基础 URL (注意中间加上了 /sfx/)
-BASE_URL = "https://raw.githubusercontent.com/dairy5432/SE/refs/heads/main/2/"
+BASE_URL = "https://raw.githubusercontent.com/dairy5432/SE/refs/heads/main/g/"
 # 结尾的固定参数
 END_PARAMS = "=N/A=100=N/A"
 
